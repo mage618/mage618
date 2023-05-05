@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 What I’m currently working on:
 - Building **Math Trainer**, an Android app for those who want to improve the speed and accuracy of their mental math skills.
+- Learning more about computer systems topics such as organization, architecture, and operating systems.
