@@ -1,7 +1,5 @@
 ### Hello, 世界
 
-I'm a software engineer at AWS, Amazon's cloud computing platform. Some of my interests include Distributed Systems, Algorithms, and Android Development.
-
 <!--
 **mage618/mage618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
